@@ -1,4 +1,4 @@
-baseURL = "https://portfoliohubs.github.io/MICKY/"
+baseURL = "https://portfoliohubs.github.io/dremadmohammed/"
 languageCode = "en-us"
 title = "Dr. Emad Mohammed Hosny"
 defaultContentLanguage = "en"
@@ -170,7 +170,7 @@ defaultContentLanguage = "en"
   # Contact Section
   [params.contact]
     phone = "01123441775"
-    whatsapp = "01123441775"
+    whatsapp = "+201123441775"
     email = "emadhosny471@gmail.com"
     instagram = ""
     facebook = ""
